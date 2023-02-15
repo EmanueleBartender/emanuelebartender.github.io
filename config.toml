@@ -12,14 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2023 Andrea Lacava andrealacava.com"
   sidebarAbout = [
-    "Sono un Mixologist e Bartender con solide basi di flair bartending riconosciuto ed attestato dalla WFA (Woldi Flair Association).", 
-    "Mi occupo della preparazione di liquori, sciroppi ed homemade trattando e lavorando botaniche fresche.",
-    "Propongo cocktails di mia creazione per singnature drink lists e gestisco ed organizzo le liste di cocktails IBA per la composizione di menù.",
-    "Mi occupo della preparazione di cocktails durante il lavoro serale e gestione della postazione.",
-    "Gestisco l'inventario monitorando gli ingredienti da acquistare.",
-    "Dispongo di una conoscenza elevata inerente le attrezzature utili per il mio lavoro e posseggo ogni tipo di attrezzatura personale per la preparazione di cocktails durante il servizio.",
+    "Ciao, Sono Emanuele, Mixologist e Bartender.", 
     "Originally from Calabria, currently based in Rome."
   ]
   # Contact page
