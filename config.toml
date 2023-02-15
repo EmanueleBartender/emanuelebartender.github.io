@@ -1,4 +1,4 @@
-baseurl = "https://emanuele-bartending.github.io/"
+baseurl = "https://emanuelebartending.github.io/"
 title = "A Journey into Mixology"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
