@@ -1,17 +1,16 @@
 +++
+date = "2016-11-05T19:41:01+05:30"
+title = "Bed Of Roses"
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
-showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
-weight = 11
+image = "img/portfolio/rose.jpeg"
+showonlyimage = false
+weight = 1
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Il gin apre le porte ad un'infinità di connubi di sapore. Su questa base, per offrire un gusto floreale ed una raffinata nota dolce andremo ad utilizzare un liquore alle rose homemade, il tutto accompagnato dalla parte citrica, in questo caso limone. 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
+Serviremo questa raffinata miscela su ardesia nera adagiata su un letto di petali di rosa e guarniremo con un bocciolo di rosa edibile e dei peel di buccia di limone. A tal proposito, per l'impatto olfattivo, prima del servizio bisogna ricordarsi di aromatizzare il bicchiere con oli essenziali di limone.
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.

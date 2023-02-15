@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/womendress.jpg"
 date = "15/02/2022"
 title = "Woman's dress"
-weight = 0
+weight = 5
 +++
 
 Woman's dress è un cocktail dedicato alla donna. Vuole in qualche modo descriverla attraverso i sapori dei suoi ingredienti.
