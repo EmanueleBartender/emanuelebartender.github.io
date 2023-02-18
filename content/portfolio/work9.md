@@ -1,31 +1,21 @@
 +++
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = "img/portfolio/flame.png"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
+title = "Strumentazione a servizio"
 weight = 9
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+L'importanza di una strumentazione professionale
+La professionalità è  la base per raggiungere un determinato livello, questo è un discorso che riguarda non solo il mio settore.
+L'attrezzatura gioca un ruolo fondamentale in questo.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+- Innanzitutto ogni attrezzo professionale adatto al compito che si svolge diminuisce il tempo necessario e le forze da spendere per portarlo a termine.
+- Il risultato cambia notevolmente, ci sono lavori di precisione che vanno fatti con attrezzi ben prestanti, anche una semplice guarnizione.
+- La fatica, quante volte con un coltello poco affilato ci si trova a tagliare frutta o altro impiegando il doppio del tempo e delle forze necessarie?
+- La precisione, uno degli aspetti più importanti del nostro lavoro è la precisione nelle quantità per non distorcere il gusto del nostro drink, questo richiede misurini adatti e metal pour di qualità.
+- La bellezza, l'impatto visivo di una guarnizione cotta su una buona piastra, senza contare il gusto, è totalmente differente da una fetta di arancia buttata nel bicchiere per fare colore. Il lavoro del Mixologist è un lavoro raffinato e di classe e pertanto richiede la massima attenzione sulle piccolezze che creano distinzione. Tramite una buona attrezzatura questo non richiede particolari sforzi.
+- Il sapore, tutto ciò ricade inevitabilmente sul drink che perde notevolmente gusto in quanto le materie prime non possono essere trattate al giusto modo.
+È proprio per evitare tali inconvenienti che io posseggo una mia attrezzatura personale che comprende tutto, dagli shaker ai classici strainer e stirrer, ai mixing glass, fino ad arrivare a pentole e piastre per le cotture delle guarnizioni e dei liquori ed attrezzatura per l'affumicatura avanzata come Flavour Blaster o campane di servizio in vetro
