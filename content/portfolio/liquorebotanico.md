@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Liquore Botanico"
 draft = false
-weight = 2
+weight = 3
 +++
 
 I liquori sono un infinito mondo da scoprire. Ciascuno è, a mio modesto parere un'opera artistica che può esprimere svariate sensazioni.

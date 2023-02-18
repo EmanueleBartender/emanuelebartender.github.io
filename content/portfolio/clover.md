@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Clover Club"
 draft = false
-weight = 2
+weight = 3
 +++
 
 La mia versione del Clover Club, fedele agli ingredienti del cocktail IBA, con la peculiarità che il liquore ai lamponi utilizzato è una mia preparazione homemade realizzata con lamponi freschi. 

@@ -4,7 +4,7 @@ title = "Bed Of Roses"
 draft = false
 image = "img/portfolio/rose.jpeg"
 showonlyimage = false
-weight = 3
+weight = 2
 +++
 
 Il gin apre le porte ad un'infinità di connubi di sapore. Su questa base, per offrire un gusto floreale ed una raffinata nota dolce andremo ad utilizzare un liquore alle rose homemade, il tutto accompagnato dalla parte citrica, in questo caso limone.
