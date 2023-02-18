@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-La mia versione del Clover Club, fedele agli ingredienti del cocktail IBA, con la peculiarità che il liquore ai lamponi utilizzato è una mia preparazione homemade realizzata con lamponi freschi. 
+La mia versione del Clover Club, fedele agli ingredienti del cocktail IBA, con la peculiarità che il liquore ai lamponi utilizzato è una mia preparazione homemade realizzata con lamponi freschi.
 <!--more-->
 
 Il collaro posto come decorazione è una chips salata alla barbabietola rossa da consumare bevendo per creare contrasto con il sapore dolce del drink.
