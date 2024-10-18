@@ -11,11 +11,11 @@ googleAnalytics = "G-VTBBHP95C7"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "pink"
-  description = "Describe your website"
+  description = "Sito personale e portfolio di Emanuele Massara, bartender"
   copyright = "&copy;2023 Andrea Lacava andrealacava.com"
   sidebarAbout = [
     "Ciao, Sono Emanuele, Mixologist e Bartender.", 
-    "Originally from Calabria, currently based in Rome."
+    "Originally from Calabria, currently in Turin."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
